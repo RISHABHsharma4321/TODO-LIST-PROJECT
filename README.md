@@ -1,2 +1,2 @@
 # TODO-LIST-PROJECT
-this repository is all about the todo list project made with html, css, javascript it is a basic project 
+This Repository is all about a beginner friendly project on the topic "TODO LIST"  
